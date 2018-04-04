@@ -8,4 +8,4 @@ Run
 
 Unit tests
 ------------
-./vendor/bin/simple-phpunit tests/IncomeTaxCommandTest.php
+./vendor/bin/simple-phpunit
